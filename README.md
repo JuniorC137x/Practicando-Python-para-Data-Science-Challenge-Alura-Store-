@@ -26,7 +26,7 @@ Análisis de rendimiento de las 4 tiendas del Sr. Juan para identificar cuál ti
 - Pandas
 - Matplotlib
 
-## 📁 Datos
+##  Datos
 
 Los datos provienen del repositorio oficial del challenge:
 [alura-es-cursos/challenge1-data-science-latam](https://github.com/alura-es-cursos/challenge1-data-science-latam)
