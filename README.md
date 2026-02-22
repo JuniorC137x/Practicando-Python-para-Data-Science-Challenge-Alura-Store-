@@ -60,23 +60,4 @@ Comparativa del flete promedio entre las 4 tiendas.
 4. Selecciona el archivo descargado
 5. Ejecuta todas las celdas con `Ctrl + F9`
 
-### Opción B — Localmente con Jupyter
 
-Requisitos previos:
-```bash
-pip install pandas matplotlib jupyter
-```
-
-Pasos:
-```bash
-# 1. Clona este repositorio
-git clone https://github.com/tu-usuario/alura-store.git
-
-# 2. Entra a la carpeta
-cd alura-store
-
-# 3. Abre el notebook
-jupyter notebook AluraStoreLatam.ipynb
-```
-
-> ⚠️ Se requiere conexión a internet para cargar los datos desde GitHub.
