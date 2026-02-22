@@ -1,6 +1,6 @@
 # 🛒 Alura Store — Análisis de Rendimiento de Tiendas
 
-## 1. 📋 Propósito del Análisis
+## 1.  Propósito del Análisis
 
 El Sr. Juan es dueño de una cadena de 4 tiendas y desea vender una de ellas para invertir en un nuevo negocio. El objetivo de este análisis es identificar **cuál de las 4 tiendas tiene el menor rendimiento**, evaluando los siguientes indicadores:
 
