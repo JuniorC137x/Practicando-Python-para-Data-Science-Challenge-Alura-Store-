@@ -16,7 +16,7 @@ Con base en estos datos, se emite una **recomendación final** sobre qué tienda
 
 ## 2.  Estructura del Proyecto
 ```
-alura-store/
+Practicando-Python-para-Data-Science-Challenge-Alura-Store-/
 │
 ├── AluraStoreLatam.ipynb   # Notebook principal con todo el análisis
 └── README.md               # Este archivo
