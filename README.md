@@ -1,4 +1,4 @@
-# 🛒 Alura Store — Análisis de Rendimiento de Tiendas
+#  Alura Store — Análisis de Rendimiento de Tiendas
 
 ## 1.  Propósito del Análisis
 
