@@ -52,7 +52,7 @@ Comparativa del flete promedio entre las 4 tiendas.
 
 ## 4.  Instrucciones para Ejecutar el Notebook
 
-### Opción A — Google Colab (recomendado, sin instalación)
+### Google Colab 
 
 1. Descarga el archivo `AluraStoreLatam.ipynb`
 2. Entra a [colab.research.google.com](https://colab.research.google.com)
